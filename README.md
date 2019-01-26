@@ -112,5 +112,5 @@ Resulting packages or installer can be found inside `dist/` directory.
 
 ### Respect
 Forked from WalletShell Electron Wallet by TurtleCoin.
-[WalletShell](https://github.com/turtlecoin/turtle-wallet-electron/blob/master/docs/walletshell.png)
+[WalletShell](https://raw.githubusercontent.com/turtlecoin/turtle-wallet-electron/master/docs/walletshell.png )
 https://github.com/turtlecoin/turtle-wallet-electron
