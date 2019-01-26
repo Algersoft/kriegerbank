@@ -1,7 +1,7 @@
 ![KriegerBank](docs/kriegerbank.png)
 Krieger Bank is a GUI wallet for Kriegerrand
 
-![KriegerBank Screens](https://i.imgur.com/41Ujq0S.gif "KriegerBank Screens")
+![KriegerBank Screens]("KriegerBank Screens")
 
 ### Features:
 This wallet contains the basic functions required to manage your Kriegerrand assets:
