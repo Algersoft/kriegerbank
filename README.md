@@ -1,4 +1,5 @@
-![KriegerBank](https://raw.githubusercontent.com/Algersoft/kriegerbank/master/src/assets/KriegerBankLogo.jpg) # KriegerBank is a Desktop GUI Wallet for Kriegerrand
+![KriegerBank](https://raw.githubusercontent.com/Algersoft/kriegerbank/master/src/assets/KriegerBank-Logo-Banner.jpg) 
+# KriegerBank is a Desktop GUI Wallet for Kriegerrand
 
 
 ![KriegerBank Screens](https://raw.githubusercontent.com/Algersoft/kriegerbank/master/src/assets/KriegerBank3.jpg "KriegerBank Screens")
