@@ -1,9 +1,8 @@
 ![KriegerBank](docs/kriegerbank.png)
 KriegerBank is a Desktop GUI Wallet for Kriegerrand
 
-![KriegerBank Screens](https://raw.githubusercontent.com/Algersoft/kriegerbank/master/src/assets/KriegerBank2.jpg "KriegerBank Screens")
 ![KriegerBank Screens](https://raw.githubusercontent.com/Algersoft/kriegerbank/master/src/assets/KriegerBank3.jpg "KriegerBank Screens")
-![KriegerBank Screens](https://raw.githubusercontent.com/Algersoft/kriegerbank/master/src/assets/KriegerBank2.jpg "KriegerBank Screens")
+
 
 ### Features:
 This wallet contains the basic functions required to manage your Kriegerrand assets:
@@ -36,6 +35,8 @@ This wallet contains the basic functions required to manage your Kriegerrand ass
   * Custom node address that is not on the list will be added/remembered for future use
   * Theme: Dark & Light Mode
   * [Keyboard shortcuts](docs/shortcut.md)
+  
+  ![KriegerBank Screens](https://raw.githubusercontent.com/Algersoft/kriegerbank/master/src/assets/KriegerBank.jpg "KriegerBank Screens")![KriegerBank Screens](https://raw.githubusercontent.com/Algersoft/kriegerbank/master/src/assets/KriegerBank2.jpg "KriegerBank Screens")
 
 
 ### Notes
