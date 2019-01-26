@@ -1,7 +1,9 @@
 ![KriegerBank](docs/kriegerbank.png)
-Krieger Bank is a GUI wallet for Kriegerrand
+KriegerBank is a Desktop GUI Wallet for Kriegerrand
 
-![KriegerBank Screens]("KriegerBank Screens")
+![KriegerBank Screens](https://raw.githubusercontent.com/Algersoft/kriegerbank/master/src/assets/KriegerBank2.jpg "KriegerBank Screens")
+![KriegerBank Screens](https://raw.githubusercontent.com/Algersoft/kriegerbank/master/src/assets/KriegerBank3.jpg "KriegerBank Screens")
+![KriegerBank Screens](https://raw.githubusercontent.com/Algersoft/kriegerbank/master/src/assets/KriegerBank2.jpg "KriegerBank Screens")
 
 ### Features:
 This wallet contains the basic functions required to manage your Kriegerrand assets:
@@ -107,4 +109,6 @@ $ npm run dist-mac
 Resulting packages or installer can be found inside `dist/` directory.
 
 ### Respect
-Forked from WalletShell for TurtleCoin.
+Forked from WalletShell Electron Wallet by TurtleCoin.
+[WalletShell](https://github.com/turtlecoin/turtle-wallet-electron/blob/master/docs/walletshell.png)
+https://github.com/turtlecoin/turtle-wallet-electron
